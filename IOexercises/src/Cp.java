@@ -14,10 +14,10 @@ public class Cp {
         System.out.println("cp file1 file 2");
         String file1 = getFileName(sc, "Filename 1: ");
         File in = new File(file1);
-        if (!in.exists() && in.isFile()) {
+        if (!in.exists()) {
             System.err.println("Filename [" + file1 + "] does not exist");
             return;
-        } else {
+        } else if (in.isFile()) {
             String file2 = getFileName(sc, "Filename 2: ");
             File out = new File(file2);
             if (out.exists()) {
@@ -31,9 +31,8 @@ public class Cp {
                 }
             } else
                 copyFile(file1, file2);
-        }
-
-
+        } else
+            System.err.println(file1 + " is not a file!");
     }
 
     private static String getFileName(Scanner sc, String prompt) {
