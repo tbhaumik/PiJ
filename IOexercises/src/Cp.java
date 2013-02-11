@@ -20,7 +20,7 @@ public class Cp {
         } else if (in.isFile()) {
             String file2 = getFileName(sc, "Filename 2: ");
             File out = new File(file2);
-            if (out.exists()) {
+            if (out.exists()) { // make sure not directory!!!!
                 System.out.print("File [" + file2 + "] already exists - overwrite? (y/n)");
                 while (!sc.hasNext("[yn]")) {
                     System.out.println("That's not y or n !");
