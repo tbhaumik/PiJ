@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IOexercises/IOexercises.iml" filepath="$PROJECT_DIR$/IOexercises/IOexercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XMLserialization/XMLserialization.iml" filepath="$PROJECT_DIR$/XMLserialization/XMLserialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code.iml" filepath="$PROJECT_DIR$/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cwrelated/cwrelated.iml" filepath="$PROJECT_DIR$/cwrelated/cwrelated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/exceptions/exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/exercises.iml" filepath="$PROJECT_DIR$/exercises/exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lists/lists.iml" filepath="$PROJECT_DIR$/lists/lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slides/slides.iml" filepath="$PROJECT_DIR$/slides/slides.iml" />
+    </modules>
+  </component>
+</project>
+
