@@ -13,12 +13,12 @@ public class Cp {
         Scanner sc = new Scanner(System.in);
         System.out.println("cp file1 file 2");
         String file1 = getFileName(sc, "Filename 1: ");
-        String file2 = getFileName(sc, "Filename 2: ");
         File in = new File(file1);
-        if (!in.exists()) {
+        if (!in.exists() && in.isFile()) {
             System.err.println("Filename [" + file1 + "] does not exist");
             return;
         } else {
+            String file2 = getFileName(sc, "Filename 2: ");
             File out = new File(file2);
             if (out.exists()) {
                 System.out.print("File [" + file2 + "] already exists - overwrite? (y/n)");
