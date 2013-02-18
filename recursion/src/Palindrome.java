@@ -18,8 +18,6 @@ public class Palindrome {
         // for a substring with first and last char removed. and carry on this until you string completes or
         // condition fails
 
-        if (s.charAt(0) == s.charAt(s.length() - 1))
-            return isPalindrome(s.substring(1, s.length() - 1));//if its not the case than string is not.
-        return false;
+        return s.charAt(0) == s.charAt(s.length() - 1) && isPalindrome(s.substring(1, s.length() - 1));
     }
 }
