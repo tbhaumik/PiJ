@@ -39,14 +39,15 @@ public class SimpleThreads {
 
         // If command line argument present, gives patience
         // in seconds.
-        if (args.length > 0) {
-            try {
-                patience = Long.parseLong(args[0]) * 1000;
-            } catch (NumberFormatException e) {
-                System.err.println("Argument must be an integer.");
-                System.exit(1);
-            }
-        }
+//        if (args.length > 0) {
+//            try {
+//                patience = Long.parseLong(args[0]) * 1000;
+//            } catch (NumberFormatException e) {
+//                System.err.println("Argument must be an integer.");
+//                System.exit(1);
+//            }
+//        }
+        //patience = 3000;
 
         threadMessage("Starting MessageLoop thread");
         long startTime = System.currentTimeMillis();

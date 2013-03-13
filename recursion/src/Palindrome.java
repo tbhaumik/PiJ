@@ -15,9 +15,11 @@ public class Palindrome {
             return true;
 
         // check for first and last char of String, if they are same then do the same thing
-        // for a substring with first and last char removed. and carry on this until you string completes or
+        // for a substring with first and last char removed. and
+        // carry on this until you string completes or
         // condition fails
 
-        return s.charAt(0) == s.charAt(s.length() - 1) && isPalindrome(s.substring(1, s.length() - 1));
+        return s.charAt(0) == s.charAt(s.length() - 1)
+                && isPalindrome(s.substring(1, s.length() - 1));
     }
 }

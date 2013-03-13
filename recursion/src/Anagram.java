@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Anagram {
     public static void main(String[] args) {
-        System.out.println(generate("CODE"));
+        System.out.println(generate("abc"));
     }
 
     public static List<String> generate(String s) {

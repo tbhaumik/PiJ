@@ -5,7 +5,7 @@ public class SumTester {
     private static final int NUM = 13;
 
     public static void main(String[] args) {
-        int[] array = new int[10000000];
+        int[] array = new int[14999];
         for(int i = 0; i < array.length; i++)
             array[i] = rand.nextInt(NUM);
 

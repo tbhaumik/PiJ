@@ -15,7 +15,6 @@ public class Sum extends RecursiveTask<Long> {
 
     @Override
     protected Long compute() {
-        System.err.println(Thread.currentThread());
         if (high - low <= SEQUENTIAL_THRESHOLD) { // not much work to do?
             long sum = 0;
             for (int i = low; i < high; i++)
@@ -26,6 +25,7 @@ public class Sum extends RecursiveTask<Long> {
             Sum left = new Sum(array, low, mid);
             Sum right = new Sum(array, mid, high);
             left.fork(); // start another thread to sum the left half
+            System.err.println(Thread.currentThread());
             long rightAns = right.compute(); // do the right half myself --- normal call
             long leftAns = left.join(); // when I'm done wait for the other thread
             return leftAns + rightAns;

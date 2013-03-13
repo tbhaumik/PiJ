@@ -5,12 +5,15 @@
       <module fileurl="file://$PROJECT_DIR$/IOexercises/IOexercises.iml" filepath="$PROJECT_DIR$/IOexercises/IOexercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/XMLserialization/XMLserialization.iml" filepath="$PROJECT_DIR$/XMLserialization/XMLserialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/code.iml" filepath="$PROJECT_DIR$/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cw/cw.iml" filepath="$PROJECT_DIR$/cw/cw.iml" />
       <module fileurl="file://$PROJECT_DIR$/cwrelated/cwrelated.iml" filepath="$PROJECT_DIR$/cwrelated/cwrelated.iml" />
       <module fileurl="file://$PROJECT_DIR$/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/exceptions/exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercises/exercises.iml" filepath="$PROJECT_DIR$/exercises/exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/lists/lists.iml" filepath="$PROJECT_DIR$/lists/lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/slides/slides.iml" filepath="$PROJECT_DIR$/slides/slides.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
     </modules>
   </component>
 </project>
