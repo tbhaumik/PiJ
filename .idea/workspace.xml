@@ -2,26 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78657531-f488-4295-9f0b-db4142002c89" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/findbugs-idea.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recursion/src/Anagram.java" afterPath="$PROJECT_DIR$/recursion/src/Anagram.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IOexercises/IOexercises.iml" afterPath="$PROJECT_DIR$/IOexercises/IOexercises.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recursion/src/Palindrome.java" afterPath="$PROJECT_DIR$/recursion/src/Palindrome.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thread/src/SimpleThreads.java" afterPath="$PROJECT_DIR$/thread/src/SimpleThreads.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thread/src/Sum.java" afterPath="$PROJECT_DIR$/thread/src/Sum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thread/src/SumTester.java" afterPath="$PROJECT_DIR$/thread/src/SumTester.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMLserialization/XMLserialization.iml" afterPath="$PROJECT_DIR$/XMLserialization/XMLserialization.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ant.xml" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/code.iml" afterPath="$PROJECT_DIR$/code.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cw/cw.iml" afterPath="$PROJECT_DIR$/cw/cw.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cwrelated/cwrelated.iml" afterPath="$PROJECT_DIR$/cwrelated/cwrelated.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exceptions/exceptions.iml" afterPath="$PROJECT_DIR$/exceptions/exceptions.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/exercises.iml" afterPath="$PROJECT_DIR$/exercises/exercises.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generics/generics.iml" afterPath="$PROJECT_DIR$/generics/generics.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lists/lists.iml" afterPath="$PROJECT_DIR$/lists/lists.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slides/slides.iml" afterPath="$PROJECT_DIR$/slides/slides.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="code.iws" />
@@ -41,7 +21,7 @@
     <file path="/fragment.java" changelist="78657531-f488-4295-9f0b-db4142002c89" time="1363016759047" ignored="false" />
     <file path="/DemoXMLSerialization.java" changelist="78657531-f488-4295-9f0b-db4142002c89" time="1360005564260" ignored="false" />
     <file path="/DemoSerializationWithResources.java" changelist="78657531-f488-4295-9f0b-db4142002c89" time="1360008526012" ignored="false" />
-    <file path="/Dummy.txt" changelist="78657531-f488-4295-9f0b-db4142002c89" time="1363175689669" ignored="false" />
+    <file path="/Dummy.txt" changelist="78657531-f488-4295-9f0b-db4142002c89" time="1363175744454" ignored="false" />
     <file path="/Cat.java" changelist="78657531-f488-4295-9f0b-db4142002c89" time="1360010359142" ignored="false" />
     <file path="/fred.txt" changelist="78657531-f488-4295-9f0b-db4142002c89" time="1360010406979" ignored="false" />
     <file path="/CalendarExample.java" changelist="78657531-f488-4295-9f0b-db4142002c89" time="1360011451404" ignored="false" />
@@ -171,7 +151,7 @@
       <file leaf-file-name="AtomicCounter.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/thread/src/atomic/AtomicCounter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="42" selection-start="132" selection-end="132" vertical-scroll-proportion="0.112443775">
+            <state line="5" column="42" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0747012">
               <folding />
             </state>
           </provider>
@@ -596,7 +576,7 @@
       <workItem from="1363016387050" duration="1733000" />
       <workItem from="1363024230565" duration="4843000" />
       <workItem from="1363175051761" duration="16000" />
-      <workItem from="1363175112571" duration="624000" />
+      <workItem from="1363175112571" duration="660000" />
     </task>
     <task id="LOCAL-00001" summary="Adding orphaned files">
       <created>1360599241748</created>
@@ -654,15 +634,19 @@
       <created>1363017748407</created>
       <updated>1363017748407</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Copied from BitBucket">
+      <created>1363175763076</created>
+      <updated>1363175763076</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16603000" />
+    <option name="totallyTimeSpent" value="16639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="32" width="1900" height="1158" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922202" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -690,7 +674,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3265504" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3265504" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -894,7 +878,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/thread/src/atomic/AtomicCounter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="42" selection-start="132" selection-end="132" vertical-scroll-proportion="0.112443775">
+        <state line="5" column="42" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0747012">
           <folding />
         </state>
       </provider>
